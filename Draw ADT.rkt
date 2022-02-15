@@ -45,7 +45,6 @@
           (draw-object! ant-adt ant-tile)))
 
     ;Egg-Draw
-    ;
     (define layer-static (venster 'make-layer))
     
     (define egg-tile
